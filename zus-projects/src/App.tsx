@@ -1,13 +1,9 @@
-import ExpenseTracker from "./components/ExpenseTracker"
-import PasswordGenerator from "./components/PasswordGenerator"
-import RecipeApp from "./components/RecipeApp"
+import Meals from "./components/Meals"
 
 const App = () => {
   return (
     <div>
-      {/* <RecipeApp /> */}
-      {/* <ExpenseTracker /> */}
-      <PasswordGenerator />
+      <Meals />
     </div>
   )
 }
