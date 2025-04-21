@@ -1,9 +1,9 @@
-import Meals from "./components/Meals"
+import FormBuilder from "./components/FORM/FormBuilder"
 
 const App = () => {
   return (
     <div>
-      <Meals />
+      <FormBuilder />
     </div>
   )
 }
