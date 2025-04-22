@@ -1,9 +1,9 @@
-import FormBuilder from "./components/FORM/FormBuilder"
+import Todo from "./components/Todo"
 
 const App = () => {
   return (
     <div>
-      <FormBuilder />
+      <Todo />
     </div>
   )
 }
